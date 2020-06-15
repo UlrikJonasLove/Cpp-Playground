@@ -1,2 +1,2 @@
 # Cpp-Playground
-Playground for C++
+Console applications with C++
